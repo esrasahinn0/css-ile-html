@@ -1,0 +1,99 @@
+
+
+h1 {
+    font-size: 40px;
+}
+
+
+ 
+
+ #baslik {
+    font-family: 'Pacifico', cursive;
+    font-size: 75px;
+    text-align: center;
+ }
+  
+ body {
+    text-align: center;
+ }
+
+ body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+  }
+
+  .list1 {
+    list-style-position: inside
+  }
+
+/*
+  body {
+    background-image: url("https://wallpaperaccess.com/full/1314202.jpg");
+  }
+  */
+
+  /*navigasyon tasarım kısmı*/
+  li {
+    display: inline;
+    padding: 8px;
+
+  }
+
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: ghostwhite;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  
+  li a:hover {
+    background-color: LightGray;
+  }
+
+  
+
+
+  .firstdiv {
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: ghostwhite;
+  }
+ 
+
+
+  body {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
+
+
+  .list1 {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+  }
+
+  .firstdiv {
+    box-shadow: 10px 10px;
+  }
+  
